@@ -155,6 +155,8 @@ const Crediario = ({ nome }) => (
           com mesas digitalizadoras.
         </Text>
         <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
         <Text>TERMO DE CONSENTIMENTO</Text>
         <Text>
           VINCULAÇÃO As assinaturas das compras realizadas pelo COMPRADOR serão
@@ -234,6 +236,76 @@ Estou ciente que a casa américa poderá tomar decisões automatizadas com base 
           outro, por mais privilegiado que seja ou venha a se tornar.
         </Text>
         <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <Text>Itajubá, 2 de Agosto de 2021</Text>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View
+          style={{
+            flexDirection: 'row',
+          }}
+        >
+          <View>
+            <Text>______________________________________</Text>
+            <View style={{ marginBottom: 5 }}></View>
+            <Text>Assinatura Eletrônica</Text>
+            <View style={{ marginBottom: 5 }}></View>
+            <Text>ELAINE CRISTINA DE ANDRADE</Text>
+          </View>
+          <View style={{ marginRight: 50 }}></View>
+          <View>
+            <Text>______________________________________</Text>
+            <View style={{ marginBottom: 5 }}></View>
+            <Text>ELAINE CRISTINA DE ANDRADE</Text>
+          </View>
+        </View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View
+          style={{
+            flexDirection: 'row',
+          }}
+        >
+          <View>
+            <Text>______________________________________</Text>
+            <View style={{ marginBottom: 5 }}></View>
+            <Text>1º Testemunha</Text>
+          </View>
+          <View style={{ marginRight: 50 }}></View>
+          <View>
+            <Text>______________________________________</Text>
+            <View style={{ marginBottom: 5 }}></View>
+            <Text>2º Testemunha</Text>
+          </View>
+        </View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View style={styles.divider}></View>
+        <View
+          style={{
+            flexDirection: 'row',
+          }}
+        >
+          <View>
+            <Text>______________________________________</Text>
+            <View style={{ marginBottom: 5 }}></View>
+            <Text>1º Avalista</Text>
+          </View>
+          <View style={{ marginRight: 50 }}></View>
+          <View>
+            <Text>______________________________________</Text>
+            <View style={{ marginBottom: 5 }}></View>
+            <Text>2º Avalista</Text>
+          </View>
+        </View>
       </View>
     </Page>
   </Document>
